@@ -1,13 +1,13 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Separar los numeros del gráfico entre 100 pixeles y aplicar un rango para X ente -10 y 10
+# Separate the numbers of the graph by 100 pixels and apply a range for X between -10 and 10
 x = np.linspace(-2,2,100)
 
-# La función
+# The function itself (y = f(x))
 y = np.sin(x)
 
-# Colocar los ejes en el centro
+# Place the axes in the center
 fig = plt.figure()
 ax = fig.add_subplot(1, 1, 1)
 ax.spines['left'].set_position('center')
@@ -17,9 +17,9 @@ ax.spines['top'].set_color('none')
 ax.xaxis.set_ticks_position('bottom')
 ax.yaxis.set_ticks_position('left')
 
-# Graficar la función
+# Graph the function
 plt.plot(x,y, 'y', label='y=e^x')
 plt.legend(loc='upper left')
 
-# Mostrar la función
+# Show the function
 plt.show()
