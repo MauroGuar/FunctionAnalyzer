@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Define range of default values of the axes separated between 1.
+# Define the range of default values for the axes separated by 1
 x = np.arange(-11, 11, 1)
 
 # Function input
