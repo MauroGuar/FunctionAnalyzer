@@ -31,7 +31,6 @@ Basic Instructions to Use the Program Correctly:
 9. On the console, the function statistics will be visible.
   </p>
 <p>
-  If you have any question, send a mail to <a href="m.guarnieri@alumno.etec.um.edu.ar">m.guarnieri@alumno.etec.um.edu.ar</a>.
 </p>
 <p>
 Integrantes: Guarnieri, Querini, Kalarevich, Capitani.
