@@ -6,7 +6,7 @@ It works using the matplotlib library (wich displays and draw the graphic) and s
 
 Basic Instructions to Use the Program Correctly:
 
-1. Run the program using a python compiler.
+1. Run the program using a python compiler, execunting from the "main" file.
 
 2. The message "Enter the function" will show on console.
 
