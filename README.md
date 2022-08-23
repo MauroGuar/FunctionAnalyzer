@@ -1,6 +1,6 @@
 # FunctionAnalyzer
 
-<p>This is a python program wich receieves a function and a point from the console input.
+<p>This is a python program wich receives a function and a point from the console input.
 
 It works using the matplotlib library (wich displays and draw the graphic) and sympy (wich calculates and returns the limits).
 
@@ -32,4 +32,7 @@ Basic Instructions to Use the Program Correctly:
   </p>
 <p>
   If you have any question, send a mail to <a href="m.guarnieri@alumno.etec.um.edu.ar">m.guarnieri@alumno.etec.um.edu.ar</a>.
+</p>
+<p>
+Integrantes: Guarnieri, Querini, Kalarevich, Capitani.
 </p>
