@@ -34,5 +34,5 @@ Basic Instructions to Use the Program Correctly:
      If you have any question, send a mail to <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlKnqGZVBXDwpvTGnBfszlTFcRghKDfXXRHhRkmfDpkRpFtDlZFhnzmmcjvFpHRMnFptVq">m.guarnieri@alumno.etec.um.edu.ar</a>.
 </p>
 <p>
-Integrantes: Guarnieri, Querini, Kalarevich, Capitani.
+Members: Guarnieri, Querini, Kalarevich, Capitani.
 </p>
