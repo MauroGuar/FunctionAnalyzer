@@ -1,3 +1,4 @@
+# Importing necessary libraries
 from sympy import limit, Symbol
 import matplotlib.pyplot as plt
 import numpy as np
@@ -8,7 +9,7 @@ def drawer(function, xPoint=0):
     function_type = functionType(function)
 
     # The graphic X range *(From, To, Each)*
-    x = np.arange(-1801, 1800, 1)
+    x = np.arange(-2501, 2501, 1)
 
     # Getting X and Y values
     y = eval(function)
@@ -18,7 +19,7 @@ def drawer(function, xPoint=0):
     plt.title(f"{function_type}: {function}")
 
     # The graphic Y range *(From, To)*
-    plt.ylim([-200, 200])
+    plt.ylim([-500, 500])
 
     # Display the axes themeselves
     plt.axhline(0, color="black")
@@ -27,7 +28,7 @@ def drawer(function, xPoint=0):
     # Drawing the function itself
     plt.grid()
     plt.plot(
-        np.where(x == xPoint - 1801),
+        np.where(x == xPoint - 2501),
         [yPoint],
         marker=".",
         markersize=10,
